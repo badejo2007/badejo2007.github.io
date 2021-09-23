@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/winnats.jpg"
 ---
 
 Wanderings in the forest of data
